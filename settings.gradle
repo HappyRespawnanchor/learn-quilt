@@ -7,7 +7,7 @@ pluginManagement {
 		// Currently needed for Intermediary and other temporary dependencies
 		maven {
 			name = 'Fabric'
-			url = 'https://maven.fabricmc.net/'
+			url = 'https://repository.hanbings.io/proxy'
 		}
 		gradlePluginPortal()
 	}
